@@ -59,9 +59,7 @@
             if($day == 'Sat' || $day == 'Sun'){
                 $opening_hours = '10.00 - 18.00';
             }
-        ?>.00 - 18.00</h1>";
-}
-    ?>
+        ?>
 
     <h1><?php echo $opening_hours; ?></h1>
 
